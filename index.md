@@ -1,6 +1,7 @@
 ---
 title: Press Release
 headname: "Glorious Word Chapel International"
+img: gwci.jpg
 ---
 To the general and respected public, information reaching us indicates that there is a blog circulating wrong info that the church and bible of **Apostle Dr Isaac Owusu Bempah** _(Founder of The Glorious Word Chapel International)_ should be burnt if former President John Dramani Mahama does not win the 2020 Election.
 
